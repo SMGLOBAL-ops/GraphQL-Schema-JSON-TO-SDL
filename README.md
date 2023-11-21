@@ -18,6 +18,7 @@ pip install graphql-core
 ## Usage
 
 Place your GraphQL JSON schema file in the root directory of the project.
+Modify the script so it points correctly to the `schema.json` file you want to convert to SDL, as well as where you want the output SDL file (.graphql) to go.
 
 Run the script:
 
