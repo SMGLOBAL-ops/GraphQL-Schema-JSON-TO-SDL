@@ -2,6 +2,8 @@
 
 This Python script converts a GraphQL JSON schema to Schema Definition Language (SDL). It's designed to help developers who need to generate SDL from GraphQL introspection results for use with e.g. Apollo GraphQL!
 
+Full GraphQL introspection Query attached in text file (NOTE: Often GraphQL endpoints expect Variables to be declared as an empty { } alongside the query - tested using POSTMAN) 
+
 ## Prerequisites
 
 - Python 3
