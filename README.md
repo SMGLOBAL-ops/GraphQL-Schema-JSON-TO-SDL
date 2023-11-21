@@ -1,9 +1,6 @@
-# GraphQL-Schema-JSON-TO-SDL
-Python Script using graphql library to convert JSON schema to SDL format easily
-
 # GraphQL JSON to SDL Converter
 
-This Python script converts a GraphQL JSON schema to Schema Definition Language (SDL). It's designed to help developers who need to generate SDL from GraphQL introspection results.
+This Python script converts a GraphQL JSON schema to Schema Definition Language (SDL). It's designed to help developers who need to generate SDL from GraphQL introspection results for use with e.g. Apollo GraphQL!
 
 ## Prerequisites
 
